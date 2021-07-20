@@ -23,7 +23,7 @@
       <el-menu-item index="/table">管理</el-menu-item>
 
       <div class="subtetle"><span>事例</span></div>
-      <el-menu-item index="/table">検索</el-menu-item>
+      <el-menu-item index="/search">検索</el-menu-item>
       <el-menu-item index="/table">管理</el-menu-item>
 
       <div class="subtetle"><span>DI辞書</span></div>
@@ -55,7 +55,7 @@
 
 <style scoped>
  .sidebar {
-  display: block; 
+  display: block;
   /* position: absolute; */
   /* left: 0; */
   /* top: 80px; */
@@ -73,7 +73,7 @@
   height: 100%;
 }
 .subtetle{ */
-  /* height: 30px;  
+  /* height: 30px;
   padding-top:8px;
   border: 1;
   border-color: dimgrey; */
