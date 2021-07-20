@@ -17,17 +17,6 @@
           </div>
         </el-space>
       </div>
-      <!-- <dir class="header-user">
-        <div class="bun-post">
-          <div>
-            <el-button type="danger" round>危险按钮</el-button>
-            <router-link to="/">
-              <el-avatar icon="el-icon-user-solid"></el-avatar>
-            </router-link>
-          </div>
-
-        </div>
-      </dir> -->
     </div>
   </div>
 </template>
@@ -50,7 +39,7 @@ export default {
   position: relative;
   box-sizing: border-box;
   width: 100%;
-  height: 50px;
+  height: 70px;
   font-size: 22px;
   color: rgba(180, 160, 129, 0.938);
 }

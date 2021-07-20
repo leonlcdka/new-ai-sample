@@ -1,7 +1,7 @@
 <template>
   <div class="hello">
     <h1>{{ msg }}</h1>
-    <el-descriptions
+    <!-- <el-descriptions
       title="垂直带边框列表"
       direction="vertical"
       :column="1"
@@ -11,7 +11,7 @@
         <el-tag size="small" >学校</el-tag>
         <el-tag size="small">学校</el-tag>
       </el-descriptions-item>
-    </el-descriptions>
+    </el-descriptions> -->
   </div>
 </template>
 
