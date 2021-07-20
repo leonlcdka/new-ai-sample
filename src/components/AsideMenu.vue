@@ -20,7 +20,7 @@
       <div class="subtetle" background-color="#324157">データベース</div>
       <div class="subtetle"><span>QA</span></div>
       <el-menu-item index="/about">検索</el-menu-item>
-      <el-menu-item index="/table">管理</el-menu-item>
+      <el-menu-item index="/table">管理1</el-menu-item>
 
       <div class="subtetle"><span>事例</span></div>
       <el-menu-item index="/search">検索</el-menu-item>
